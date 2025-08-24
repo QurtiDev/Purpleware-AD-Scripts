@@ -7,7 +7,7 @@ Usage and Help for you!
    2. Requesting a certificate from a chosen template via Certipy
 
 Usage:
-  python adcs_autoenum_req.py <domain_controller_ip> <ca_name> <template_name> <upn>
+  python CertHunter.py <domain_controller_ip> <ca_name> <template_name> <upn>
 
 Example command:
   python3 CertHunter.py <IP> EDU-CA AdminAccessTemplate user@domain.local
